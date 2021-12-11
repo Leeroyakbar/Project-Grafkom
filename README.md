@@ -1,6 +1,6 @@
 # Sunny Land
 
-##Story
+## Story
 
 ## Goals
 
