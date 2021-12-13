@@ -21,7 +21,7 @@ Foxy, The Jumper, merupakan game dua dimensi yang menggambarkan dan menceritakan
 3. Musuh dapat dimusnahkan oleh Foxy dengan menginjaknya
   
 ## Assets
-Asset diambil dari Unity Asset Store, berikut Asset yang diambil :
+Asset diperoleh dari Unity Asset Store, berikut Asset yang diambil :
 >  Sunnyland : https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
   
 ## Builds
@@ -35,8 +35,8 @@ Asset diambil dari Unity Asset Store, berikut Asset yang diambil :
 6. 
   
 ## Technology
-> Unity
-> Visual Studio Code
+> Unity <
+> Visual Studio Code <
   
 ## Screenshoot
   
