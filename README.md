@@ -35,8 +35,8 @@ Asset diperoleh dari Unity Asset Store, berikut Asset yang diambil :
 6. 
   
 ## Technology
-> Unity <
-> Visual Studio Code <
+- Unity
+- Visual Studio
   
 ## Screenshoot
   
